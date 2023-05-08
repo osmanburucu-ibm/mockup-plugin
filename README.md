@@ -8,9 +8,9 @@ This repository holds the IBM DevOps (Build, Deploy, Release, Velocty) Mockup Pl
 
 **Please read the Terms and Conditions documents before downloading.**
 
-* [Terms and Conditions Textual Form](docs/ibm-plugins-terms-and-conditions.txt)
-* [General Terms and Conditions](docs/UrbanCode_General_Plugin_Terms_and_Conditions.md)
-* [IBM UrbanCode Deploy Plugins Terms and Conditions](docs/UrbanCode_Deploy_Plugin_Terms_and_Conditions.md)
+* [Terms and Conditions Textual Form](ibm-plugins-terms-and-conditions.txt)
+* [General Terms and Conditions](General_Plugin_Terms_and_Conditions.md)
+* [Plugins Terms and Conditions](ibm-plugins-terms-and-conditions.md)
 
 ## Plug-In documentation
 
