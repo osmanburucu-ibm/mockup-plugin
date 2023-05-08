@@ -1,6 +1,16 @@
 [
     {
         "version": "29",
+        "semver": "29.0.2",
+        "date": "2023-05-02T08:50:02.692Z",
+        "file": "deploy-mockup-plugin-29.0.2.zip",
+        "notes": [
+            "sdkasdöflkjasdölfkjasdölkfjdölfkjdsölfkjdsöflkjdfölkjaföl"
+        ],
+        "supports": "7.3.0"
+    },
+    {
+        "version": "29",
         "semver": "29.0.1",
         "date": "2023-01-02T08:50:02.692Z",
         "file": "deploy-mockup-plugin-29.0.1.zip",
