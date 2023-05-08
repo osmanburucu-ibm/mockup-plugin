@@ -1,0 +1,58 @@
+{
+    "name": "Best MockUp",
+    "source_project": "https://github.com/UrbanCode/7-Zip-UCD",
+    "description": "The Best Mockup plug-in is just a sample plug-in mocking up how it should look when everything is mograted. With examples for all fields",
+    "specification": {
+        "categories": ["SCM", "Source", "Automation", "MockUp"],
+        "type": "Community"
+    },
+    "author": {
+        "name": "Best MockUp",
+        "email": "mockingup-plugins@ibm.com"
+    },
+    "docFiles": [
+        {
+            "name": "Readme",
+            "file_name": "README.md",
+            "sub_documents": [],
+            "folder_name": ""
+        },
+        {
+            "name": "Overview",
+            "file_name": "overview.md",
+            "sub_documents": [],
+            "folder_name": ""
+        },
+        {
+            "name": "Processes and Steps",
+            "file_name": "steps.md",
+            "sub_documents": [],
+            "folder_name": ""
+        },
+        {
+            "name": "Troubleshooting",
+            "file_name": "troubleshooting.md",
+            "sub_documents": [],
+            "folder_name": ""
+        },
+        {
+            "name": "Usage",
+            "file_name": "usage.md",
+            "sub_documents": [
+                {
+                    "name": "Deploy and Rollback",
+                    "file_name": "deploy-rollback.md",
+                    "sub_documents": [],
+                    "folder_name": "usage-pages"
+                },
+                {
+                    "name": "Rollback with Template",
+                    "file_name": "rollback-with-template.md",
+                    "sub_documents": [],
+                    "folder_name": "usage-pages"
+                }                
+            ],
+            "folder_name": ""
+        }
+    ]
+}

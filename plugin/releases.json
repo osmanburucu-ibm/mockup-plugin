@@ -1,0 +1,25 @@
+[
+    {
+        "version": "29",
+        "semver": "29.0.1",
+        "date": "2023-01-02T08:50:02.692Z",
+        "file": "deploy-mockup-plugin-29.0.1.zip",
+        "notes": [
+            "<b>Removed Manual User Access Key:</b> From current version onwards this plugin will only support Auto Generated User Access Key feature of HCL Accelerate.",
+            "<b>Preventing Installation on Older Versions:</b> This version of Digital.ai Agility Plugin can only be installed on HCL Accelerate version  3.0.0 and later",
+            "<b>Added Category</b>:ALM is the plugin category of Digital.ai Agility.",
+            "<b>Initial Sync Date Field Added: </b>Under the hidden properties section of add integration page for the plugin an Initial Sync Date field is added. This field is optional and can be used only for the first sync."
+        ],
+        "supports": "7.3.0"
+    },
+    {
+        "version": "5",
+        "semver": "5.64161",
+        "date": "2022-08-16T14:02:38.920Z",
+        "image": "deploy-mockup-plugin-5.4161.zip",
+        "notes": [
+            "Clarifying delimitation for properties used"
+        ],
+        "supports": "4.0.9.10"
+    }
+]
